@@ -49,7 +49,7 @@ A: Inevitably, yes
 A: Unfortunately, no.
 
 **Cool code you got, you make it yourself nerd?**
-Half of it, yes. For the Python script bully https://twitter.com/voxsecundus instead.
+A: Half of it, yes. For the Python script bully https://twitter.com/voxsecundus instead.
 
 **Desmume is missing an option in the guide!**
 A: Use the standalone version I linked, other versions may not have the necessary features.
