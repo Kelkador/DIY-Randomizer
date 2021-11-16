@@ -22,7 +22,7 @@ Since 100% of people will probably experience this on emulator, here's how to ge
 
 I will walk you through on Desmume, this is my emulator of choice and I don't know the process on other emulators http://desmume.org/download/
 1. After opening DIY_Patched.nds, you're only halfway there! To get the other 90 games the tool injected you will need to hit File > Import Backup Memory and locate "DIY_Patched.sav"
-(![image](https://user-images.githubusercontent.com/82776543/142073139-ca98d34e-0039-45bf-aa46-e330868e124d.png)
+![image](https://user-images.githubusercontent.com/82776543/142073139-ca98d34e-0039-45bf-aa46-e330868e124d.png)
 2. Make sure when you import the save, the settings looks EXACTLY like the image below. Failure to do so will make the save not work!
 ![image](https://user-images.githubusercontent.com/82776543/142073411-605de1a6-17ae-4a82-9c09-0a827cb63e36.png)
 3. Afterwards, skip past the opening cutscene/title screen/DS warning and click the diy shop and enter.
