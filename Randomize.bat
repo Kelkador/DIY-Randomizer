@@ -1,5 +1,5 @@
-SET src_dir=C:\Users\kelka\Downloads\dsoft-backup\doujinsoft2\mio\game
-SET work_dir=C:\Users\kelka\Downloads\dsoft-backup\doujinsoft2\mio\randomize
+SET src_dir=
+SET work_dir=
 
 cd %work_dir%
 del DIY_Patched
