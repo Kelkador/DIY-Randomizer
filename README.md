@@ -4,7 +4,7 @@ I like Wario too much so I made a way to play 185 DIY games from a pool of 100,0
 ## What Do I Need?
 - Python (I used 3.8 but all later versions should be fine) = https://www.python.org/
 - The backup of Doujinsoft (at the bottom of this about page("What are your backup plans?")) = https://diy.tvc-16.science/about
-- ndstool.exe = http://darkfader.net/ds/files/ndstool.exe
+- ndstool.exe = https://www.romhacking.net/utilities/793/ (Obtained from DSALAZY, it's right in the ZIP)
 - A backup rom of WarioWare DIY renamed to "WarioWare.nds" (Not provided)
 
 ## How do I get started?
